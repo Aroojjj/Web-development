@@ -1,0 +1,111 @@
+    div
+    {
+         background-color: white;
+         width: 45%;
+         margin: auto;
+         padding: 10px;
+         margin-bottom: 20px;
+    }
+    body
+    {
+        background-color: lightskyblue;
+        position: absolute;
+        top: 20%;
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+    }
+    h2
+    {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .Delete1
+    {
+        background-color: gray;
+        color: white;
+        margin-left: +218px;  
+    }
+    .Delete2
+    {
+        margin-left: +226px;  
+        background-color: gray;
+        color: white;
+    }
+    .Delete3
+    {
+        margin-left: +226px;  
+        background-color: gray;
+        color: white;
+    }
+    .Delete1:hover
+    {
+        background-color: white;
+        color: black;
+    }
+    .Delete2:hover
+    {
+        background-color: white;
+        color: black;
+    }
+    .Delete3:hover
+    {
+        background-color: white;
+        color: black;
+    }
+    .del_all
+    {
+        border-style:solid;
+        border-width: thin;
+        border-spacing: inherit;
+        border-color: white;
+        background-color: gray;
+        width: 64%;
+        padding: 8px;
+       
+    }
+    .del_all:hover
+    {
+        background-color: black;
+        color: white;
+    }
+    .add_todo
+    {
+        padding: 2px;
+        margin-left: +36px;
+        color: white;
+        background-color: gray;
+    }
+    .add_todo:hover
+    {
+        background-color: white;
+        color: black;
+    }
+    .para1:hover
+    {
+        background-color: darkgrey;
+        color: white;
+    }
+    .para2:hover
+    {
+        background-color: darkgrey;
+        color: white;
+    }
+    .para3:hover
+    {
+        background-color: darkgrey;
+        color: white;
+    }
+    p
+    {
+        margin: auto;
+        padding: 10px;
+        width: 60%;
+        border-spacing: inherit;
+        border-style:solid;
+        border-width: thin;
+        border-bottom-left-radius: 2;
+        border-color: darkgray;
+        color: #333; font-size: 16px; font-weight:100;
+        text-align: left;
+        justify-items: right;
+    }
